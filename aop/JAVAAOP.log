@@ -1,0 +1,15 @@
+2019-09-18 01:51:45.937  INFO 8528 --- [main] com.javainuse.SpringBootCepApplication   : Starting SpringBootCepApplication on DESKTOP-H2135NK with PID 8528 (C:\Users\igorl\eclipse-workspace\aop\target\classes started by igorl in C:\Users\igorl\eclipse-workspace\aop)
+2019-09-18 01:51:45.945  INFO 8528 --- [main] com.javainuse.SpringBootCepApplication   : No active profile set, falling back to default profiles: default
+2019-09-18 01:51:47.293  INFO 8528 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-09-18 01:51:47.318  INFO 8528 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-18 01:51:47.319  INFO 8528 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-18 01:51:47.461  INFO 8528 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-18 01:51:47.462  INFO 8528 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1445 ms
+2019-09-18 01:51:47.746  INFO 8528 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-18 01:51:47.979  INFO 8528 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-18 01:51:47.985  INFO 8528 --- [main] com.javainuse.SpringBootCepApplication   : Started SpringBootCepApplication in 2.704 seconds (JVM running for 4.222)
+2019-09-18 01:53:04.581  INFO 8528 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-18 01:53:04.582  INFO 8528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-18 01:53:04.589  INFO 8528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-09-18 01:57:52.424  INFO 8528 --- [RMI TCP Connection(27)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-09-18 01:57:52.428  INFO 8528 --- [RMI TCP Connection(27)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
